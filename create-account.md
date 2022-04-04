@@ -4,7 +4,7 @@ has_children: false
 nav_order: 2
 ---
 
-# Create an Account {#createAccount}
+# Create an Account
 
 You will need to create a free account to create or participate in projects.
 
