@@ -1,3 +1,9 @@
+---
+title: SyRF User Roles
+has_children: false
+nav_order: 5
+---
+
 # SyRF user Roles
 
 There are two user roles in SyRF: Project Administrator (admin) and Reviewer. These roles are project specific - you may be a Project Administrator in some of your projects and a Reviewer in others.
