@@ -6,26 +6,26 @@ nav_order: 10
 
 # Annotation Questions
 
-## Creating annotation questions
+## Creating Annotation Questions
 In your systematic review protocol, you will have specified certain information you want to extract from each of your studies, such as 'Were animals randomised to experimental groups?' or 'What concentration of drug treatment was used?'. In SyRF you can annotate your studies with this information using annotation questions.
 
 To design annotation questions for a stage of your project, go to 'Question Design' under 'Project Settings' on the left-hand navigation bar of your project.
 
 ![alttext](figs/Fig_Question_design.png)
 
-### Question editing
+### Question Editing
 At present, questions can only be added or deleted. Individual questions cannot be edited or changed order. This is primarility due to our database structure and questions and an editing feature will be implemented in an upcoming release.
 
-## Question categories
+## Question Categories
 Annotation questions are entered into the following categories depending on what information they ask about:
 
-### Study level questions
+### Study Level Questions
 Enter any question that is relevant to the overall study. 
 
 e.g. Do the authors provide a study protocol that is available to you?
 (Yes or No checkbox)
 
-### Disease Model Induction questions
+### Disease Model Induction Questions
 When adding a question you will be required to select whether the question relates to Control animals, Non-control animals (model animals) or both. 
 
 #### Control Question
@@ -46,16 +46,16 @@ Define questions that are relevant to both Model control and Model animals
 e.g. What anaesthetic was used for both the model and sham surgery?
 (Dropdown list with defined options)
 
-### Treatment questions
+### Treatment Questions
 When adding a question you will be required to select whether questions related to Control animals, Non-control animals (treatment group animals) or both.
 
-#### Control question
+#### Control Question
 Define questions that are specific to the Treatment control
 
 e.g. What is the vehicle given to the control animals? 
 (Dropdown list with defined options)
 
-#### Non-Control question
+#### Non-Control Question
 Define questions that are specific to the Treatment group
 
 e.g. Specify the dose of treatment drug given in mg/kg
@@ -67,28 +67,28 @@ Define questions that are relevant to both Treatment control and Treatment anima
 e.g. What route of drug or vehicle administration is used in the experiment?
 (Dropdown list with defined options)
 
-### Outcome assessment questions
+### Outcome Assessment Questions
 Define questions relevant to each outcome assessment procedure in the study.
 
 e.g. What is the behavioural test used to measure outcome?
 (Dropdown list with defined options)
 
-### Cohort level questions
+### Cohort Level Questions
 Define questions relevant to each cohort (experimental group) in the study. 
 
 e.g. What is the sex of the animals included in the cohort?
 (Dropdown list with options males, females, both, unknown)
 
-[I have cohorts with comorbidities and I'm not clear on how to differentiate between them.](https://syrf.org.uk/faq)
+**_I have cohorts with comorbidities and I'm not clear on how to differentiate between them._**<br/>
+[Check out the FAQ](https://syrf.org.uk/faq)
 
-
-### Experiment questions
+### Experiment Questions
 Define questions relevant to each experiment in the study
 
 e.g. Was there a habituation period?
 (Yes or No checkbox)
 
-## Creating a new question
+## Creating a New Question
 To add a question, simply click the '+' button next to the category you want to design a question in.
 
 When adding a question, you can enter the following details:
@@ -102,8 +102,7 @@ When adding a question, you can enter the following details:
 
 ![alttext](figs/Fig_Question_dialogue.png)
 
-
-### Question types
+### Question Types
 There are 6 question types in SyRF:
 
 * Dropdown lists
@@ -115,18 +114,14 @@ There are 6 question types in SyRF:
 
 We recommend that when using checklists or check boxes, you set the default checkbox status to 'indeterminate'.
 
-
-
-### Allowing multiple answers
+### Allowing Multiple Answers
 If you choose to allow multiple answers, you will be asked if you want these to be split into separate annotations. This refers to how the data will be presented in your output data file.
-
-
 
 Choosing to split multiple answers into separate annotations means that, in your output file, the multiple answers will be separated into different rows. Choosing not to split into separate annotations, means that they will appear in the same row, separated by a semi-colon. 
 
 If you have nested questions, it may be best to choose to split your answers into separate annotations so that the nesting displays properly in your output file. For example, in an 'Outcome Assessment' category question asking 'What behavioural tests are used?', we would allow multiple answers and may choose to split into separate annotations' as this allows us to ask further related questions to the specific behavioural test.
 
-### Nesting questions and conditional questions
+### Nesting Questions and Conditional Questions
 Questions may be nested to allow for hierarchy of conditional information entry (i.e. questions can become active, depending on answers to previous questions). 
 
 For each question you can choose to add related questions, if you want to get answers to additional questions, which are conditional on the answerto the previous question.
@@ -143,9 +138,7 @@ You could then ask further related questions, by clicking on this question and s
 
 These questions will nest under the previous question.
 
-
-
-## Adding questions to stages
+## Adding Questions to Stages
 Once you have designed your questions, to allow them to be presented to reviewers, you need to add them to your annotation stage by going to 'Stage Settings' then the name of the stage of want to add your questions to and selecting the questions you want to add to the stage.
 
 
