@@ -1,6 +1,6 @@
 ---
 title: Studies
-parent: Project Nagivation
+parent: Project Navigation
 has_children: false
 nav_order: 6
 ---
