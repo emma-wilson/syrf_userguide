@@ -8,7 +8,7 @@ This repository uses the [just-the-docs](https://github.com/just-the-docs/just-t
 
 ## Editing the `_config.yml` file
 
-Familiarised yourself with the [just-the-docs config file](https://github.com/just-the-docs/just-the-docs/blob/main/_config.yml) before attempting to edit this file, as incorrect changes may cause the site build to fail.
+Familiarise yourself with the [just-the-docs config file](https://github.com/just-the-docs/just-the-docs/blob/main/_config.yml) before attempting to edit this file, as incorrect changes may cause the site build to fail.
 
 ## Adding a new page
 
