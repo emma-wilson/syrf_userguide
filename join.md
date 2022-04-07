@@ -14,4 +14,5 @@ To join a project, you will need to click ‘Request to join’ on the project�
 
 If you do not wish other users to join your project, it is best to set your project to Private.
 
-[**FAQ: My collaborators can’t see my project**](https://syrf.org.uk/faq)
+**_My collaborators can’t see my project_**
+[Check out the FAQ](https://syrf.org.uk/faq)
