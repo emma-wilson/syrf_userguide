@@ -12,4 +12,5 @@ Creating an account allows us to keep your data secure and allows the administra
 
 Once you have created an account and logged in you can access public projects or create a new project via the Projects tab in SyRF.
 
-[**FAQ: I don’t see an email in my inbox from SyRF**](https://syrf.org.uk/faq)
+**_**FAQ: I don’t see an email in my inbox from SyRF**_**
+[Check out the FAQ](https://syrf.org.uk/faq)
