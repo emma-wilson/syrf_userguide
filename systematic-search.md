@@ -1,3 +1,9 @@
+---
+title: Systematic Searches
+has_children: false
+nav_order: 7
+---
+
 # Uploading a Systematic Search
 
 ## Deduplicating your systematic search
