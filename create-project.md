@@ -16,7 +16,7 @@ Once you have created your project, you can keep track of your project progress 
 
 You will automatically be assigned a Project Administrator role in any project that you create.
 
-## Projects with multiple screening criteria
+## Projects with Multiple Screening Criteria
 
 Currently, you can only have one set of inclusion/exclusion critiera per SyRF project. If you wish to have multiple screening stages in your systematic review, for instance title and abstract screening followed by full-text screening, you can do this by exporting your included studies from SyRF following your first screening stage and uploading them to a new SyRF project to complete your second screening stage.
 
