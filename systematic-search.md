@@ -33,7 +33,8 @@ SyRF currently accepts EndNote Desktop XML files. EndNote Web XML files are not 
 #### Uploading From a Zotero Export
 Please note that you cannot use the  'EndNote XML' export option in Zotero to upload an EndNote file to SyRF. If you are using Zotero to manage your study references, please export as a CSV file and follow the CSV upload instructions.
 
-[**FAQ: I am getting an error when uploading an EndNote XML file.**](https://syrf.org.uk/faq)
+**_I am getting an error when uploading an EndNote XML file_**<br/>
+[Check out the FAQ](https://syrf.org.uk/faq)
 
 ### Spreadsheet (\*.csv supported)
 *Optionally including screening decisions*
@@ -76,7 +77,8 @@ We will upload these PDFs to the SyRF database and these can be opened from the 
 ### PDF File Names
 Please avoid using invalid characters (e.g. , < > : " \\ / | ? \*) in file names as it may cause issues. By default, software like EndNote uses Author and Title information to name files, which can cause invalid characters to be added to your PDF file names. You can change the default to name PDFs using another column such as RecordID. Whichever columns you chose to name your PDFs with, the data should be unique.
 
-[**FAQ: I am performing a two-stage screening process and need to add PDFs only for my included studies for full-text screening**](https://syrf.org.uk/faq)
+**_I am performing a two-stage screening process and need to add PDFs only for my included studies for full-text screening_**<br/>
+[Check out the FAQ](https://syrf.org.uk/faq)
 
 ## View Project Studies
 You can now view project studies by clicking on the ‘Studies’ then 'All Studies' on the left hand side navigation panel. This will show you all the studies you have uploaded to your project.
