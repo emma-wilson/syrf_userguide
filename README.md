@@ -34,7 +34,7 @@ Once you have this, you can add the page content below. Finally, click `commit` 
 
 ## Editing a page
 
-You can edit pages directly in markdown. After your commit our changes, it will take a few minutes to see them on the live site.
+You can edit pages directly in GitHub. After your commit our changes, it will take a few minutes to see them on the live site.
 
 ## Adding an image
 
