@@ -6,10 +6,10 @@ nav_order: 7
 
 # Uploading a Systematic Search
 
-## Deduplicating your systematic search
-If you have searched for studies using multiple databases there will be duplicate studies in your systematic search. Currently SyRF does not support deduplication of studies, and this must be performed before your studies are uploaded to SyRF. You can deduplicate your studies automatically using the [CAMARADES deduplication tool](https://camarades.shinyapps.io/RDedup/).
+## Deduplicating your Systematic Search
+If you have searched for studies using multiple databases there will be duplicate studies in your systematic search. Currently SyRF does not support deduplication of studies, and this must be performed before your studies are uploaded to SyRF. You can deduplicate your studies automatically using the [ASySD deduplication tool](https://camarades.shinyapps.io/RDedup/).
 
-## Uploading files	
+## Uploading Files	
 A Project Administrator can upload a systematic search to your project by Selecting Systematic Searches from Project Settings and clicking "Upload New Systematic Search".
 	
 You can upload your systematic searches as an:
@@ -30,11 +30,10 @@ SyRF currently accepts EndNote Desktop XML files. EndNote Web XML files are not 
 4. Change the file type to XML 
 5. Name and save your XML file, which is now ready to be uploaded to the SyRF screening database
 
-#### Uploading from a Zotero export
+#### Uploading From a Zotero Export
 Please note that you cannot use the  'EndNote XML' export option in Zotero to upload an EndNote file to SyRF. If you are using Zotero to manage your study references, please export as a CSV file and follow the CSV upload instructions.
 
-[**I am trying to upload an EndNote XML file that was created by importing from a place other than an electronic database and getting an error.**](https://syrf.org.uk/faq)
-I am trying to upload an EndNote XML file that was created by importing from a place other than an electronic database and getting an error.
+[**FAQ: I am getting an error when uploading an EndNote XML file.**](https://syrf.org.uk/faq)
 
 ### Spreadsheet (\*.csv supported)
 *Optionally including screening decisions*
@@ -54,7 +53,7 @@ I am trying to upload an EndNote XML file that was created by importing from a p
     * Keywords
     * PDF Relative Path
 
-You can download a [template with the correct column headings and example data here](https://syrf.org.uk/assets/pdfs/Systematic_search_instructions.html).
+**You can download a [template with the correct column headings and example data here](https://syrf.org.uk/assets/pdfs/Systematic_search_instructions.html).**
 
 3. Even if you don't have information for all the columns specified, **they will need to be in your file** to make the upload work. SyRF will accept empty fields for any of these variables.
 4. If you would like to upload **screening decisions** already made outside of SyRF along with list of studies, you should **add separate columns for each user** and SyRF’s wizard will allow you to select which column headers in your file correspond to project members.
@@ -64,7 +63,7 @@ You can download a [template with the correct column headings and example data h
 
 ![alttext](figs/save_csv.png)
 
-## Uploading full-text PDFs
+## Uploading Full-Text PDFs
 If you require full-text PDFs for each of your studies at any stage of your SyRF project, it is important that you have already retrieved these full-text PDFs before uploading your search file.
 
 
@@ -74,14 +73,13 @@ You will then need to [contact us](syrf.info@ed.ac.uk) with the name of your pro
 
 We will upload these PDFs to the SyRF database and these can be opened from the screening form.
 
-### PDF file names
+### PDF File Names
 Please avoid using invalid characters (e.g. , < > : " \\ / | ? \*) in file names as it may cause issues. By default, software like EndNote uses Author and Title information to name files, which can cause invalid characters to be added to your PDF file names. You can change the default to name PDFs using another column such as RecordID. Whichever columns you chose to name your PDFs with, the data should be unique.
 
-<br>
-[**I am performing a two-stage screening process and need to add PDFs only for my included studies for full-text screening**](https://syrf.org.uk/faq)
+[**FAQ: I am performing a two-stage screening process and need to add PDFs only for my included studies for full-text screening**](https://syrf.org.uk/faq)
 
-## View project studies
+## View Project Studies
 You can now view project studies by clicking on the ‘Studies’ then 'All Studies' on the left hand side navigation panel. This will show you all the studies you have uploaded to your project.
 
-## Deleting systematic searches
+## Deleting Systematic Searches
 If you need to delete your systematic search, you can do so In SyRF. Be aware, however, that if you have used SyRF to screen or annotate these studies, deleting your systematic search will also delete these screening decisions and annotation answers.
