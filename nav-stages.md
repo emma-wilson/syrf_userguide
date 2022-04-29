@@ -3,6 +3,7 @@ title: Project Stages
 parent: Project Navigation
 has_children: false
 nav_order: 4
+layout: page
 ---
 
 # Project Stages

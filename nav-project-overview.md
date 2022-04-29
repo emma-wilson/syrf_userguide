@@ -3,6 +3,7 @@ title: Project Overview
 parent: Project Navigation
 has_children: false
 nav_order: 1
+layout: page
 ---
 
 # Project Overview 

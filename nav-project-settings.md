@@ -3,6 +3,7 @@ title: Project Settings
 parent: Project Navigation
 has_children: false
 nav_order: 5
+layout: page
 ---
 
 # Project Settings

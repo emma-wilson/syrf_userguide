@@ -2,6 +2,7 @@
 title: Project Stages
 has_children: false
 nav_order: 8
+layout: page
 ---
 
 # Project Stages

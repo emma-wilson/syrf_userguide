@@ -2,6 +2,7 @@
 title: Join a Project
 has_children: false
 nav_order: 3
+layout: page
 ---
 
 # Join a Project

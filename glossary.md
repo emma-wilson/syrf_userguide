@@ -3,6 +3,7 @@ title: Glossary
 parent: Getting Started
 has_children: false
 nav_order: 1
+layout: page
 ---
 
 # Glossary

@@ -2,6 +2,7 @@
 title: Deactivate Your Account
 has_children: false
 nav_order: 11
+layout: page
 ---
 
 # Deactivate Your Account

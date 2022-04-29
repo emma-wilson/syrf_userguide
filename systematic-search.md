@@ -2,6 +2,7 @@
 title: Systematic Searches
 has_children: false
 nav_order: 7
+layout: page
 ---
 
 # Uploading a Systematic Search

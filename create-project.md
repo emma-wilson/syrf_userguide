@@ -2,6 +2,7 @@
 title: Create a Project
 has_children: false
 nav_order: 4
+layout: page
 ---
 
 # Create a New Project

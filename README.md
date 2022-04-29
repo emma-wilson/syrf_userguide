@@ -22,6 +22,7 @@ title: My Page Title
 parent: Title of the Parent Page
 has_children: false
 nav_order: 1
+layout: page
 ---
 ```
 

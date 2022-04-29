@@ -2,6 +2,7 @@
 title: FAQ
 has_children: false
 nav_order: 12
+layout: page
 ---
 
 # Frequently Asked Questions

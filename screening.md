@@ -2,6 +2,7 @@
 title: Screening
 has_children: false
 nav_order: 9
+layout: page
 ---
 
 # Screening

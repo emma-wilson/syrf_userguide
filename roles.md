@@ -2,6 +2,7 @@
 title: SyRF User Roles
 has_children: false
 nav_order: 5
+layout: page
 ---
 
 # SyRF User Roles

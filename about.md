@@ -2,6 +2,7 @@
 title: About Us
 has_children: false
 nav_order: 12
+layout: page
 ---
 
 # About us
