@@ -30,14 +30,24 @@ $base-button-color: #f7f7f7 !default;
 .btn-green {
 	@include btn-color($white, $green-100);
 }
-
 .site-title {
-	content: url(../../figs/syrf_userguide_logo.png);
+	content: "";
 	height: 113px;
 	margin-top: 40px;
-	margin-right: 70px;
+	/* margin-right: 70px; */
 	padding: 25px;
 	padding-bottom: 10px;
+	background-image: url(../../figs/syrf_userguide_logo.png);
+	background-origin: content-box;
+	background-repeat: no-repeat;
+	background-size: contain;
+	text-indent: -1000em;
+}
+
+.signin-upgrade img,
+.side-by-side {
+	margin: 30px;
+	max-width: 400px;
 }
 .site-title:hover {
 }
