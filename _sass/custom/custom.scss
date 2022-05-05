@@ -48,6 +48,7 @@ $base-button-color: #f7f7f7 !default;
 .side-by-side {
 	margin: 30px;
 	max-width: 400px;
+	object-fit: contain;
 }
 .site-title:hover {
 }
