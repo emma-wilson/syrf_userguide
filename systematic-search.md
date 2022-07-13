@@ -66,17 +66,21 @@ Please note that you cannot use the  'EndNote XML' export option in Zotero to up
 ![alttext](figs/save_csv.png)
 
 ## Uploading Full-Text PDFs
-If you require full-text PDFs for each of your studies at any stage of your SyRF project, it is important that you have already retrieved these full-text PDFs before uploading your search file.
+If you require full-text PDFs for each of your studies at any stage of your SyRF project, __it is important that you have already retrieved these full-text PDFs before uploading your search file__, as they cannot be retroactively uploaded. 
 
 
-In the systematic search file that you upload (csv/tsv spreadsheet or XML from Endnote) make sure the column “PDF Relative Path” contains relative path links (i.e. relative to the root of the folder you send to us) to your PDFs for each record.
+In the systematic search file that you upload (.csv/.tsv spreadsheet or XML from Endnote) please ensure that the column “PDF Relative Path” contains **relative path** links (i.e., relative to the root of the folder you send to us) to your PDFs for each record. **Please ensure that the PDF folder corresponds to the XML file being uploaded.**
+
+For more information on relative versus absolute paths in Endnote please visit [Endnote's website here.](https://support.clarivate.com/Endnote/s/article/EndNote-Attaching-PDF-files-in-EndNote-desktop-library?language=en_US)
 
 You will then need to [contact us](syrf.info@ed.ac.uk) with the name of your project, a folder containing your PDFs (sent via Google Drive or similar) and a CSV file containing the file path to each PDF and the title or SyRF study ID of each study, so we can match PDFs with your studies in SyRF. 
 
 We will upload these PDFs to the SyRF database and these can be opened from the screening form.
 
 ### PDF File Names
-Please avoid using invalid characters (e.g. , < > : " \\ / | ? \*) in file names as it may cause issues. By default, software like EndNote uses Author and Title information to name files, which can cause invalid characters to be added to your PDF file names. You can change the default to name PDFs using another column such as RecordID. Whichever columns you chose to name your PDFs with, the data should be unique.
+Please avoid using invalid characters (e.g., < > : “ \ / | ? *) in file names as it may cause issues. By default, software like EndNote uses Author and Title information to name files, which can cause invalid characters to be added to your PDF file names. You can change the default to name PDFs using another column such as RecordID. Whichever columns you chose to name your PDFs with, the data should be unique. 
+ 
+For more information on renaming files in Endnote please visit [Endnote's website here.](https://support.clarivate.com/Endnote/s/article/Rename-PDFs-in-EndNote?language=en_US)
 
 **_I am performing a two-stage screening process and need to add PDFs only for my included studies for full-text screening_**<br/>
 [Check out the FAQ](https://syrf.org.uk/faq)
