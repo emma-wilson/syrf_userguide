@@ -44,16 +44,17 @@ Please note that you cannot use the  'EndNote XML' export option in Zotero to up
 2. You will have to make sure your file has the following column headings to make the upload work: 
     * Title
     * Authors
-    * Publication Name
-    * Alternate Name
+    * PublicationName
+    * AlternateName
     * Abstract
     * Url
-    * Author Address
+    * AuthorAddress
     * Year
-    * DOI
-    * Reference Type
+    * Doi
+    * ReferenceType
     * Keywords
-    * PDF Relative Path
+    * PdfRelativePath
+    * CustomId
 
 **You can download a [template with the correct column headings and example data here](https://syrf.org.uk/assets/pdfs/Systematic_search_instructions.html).**
 
