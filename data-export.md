@@ -102,7 +102,7 @@ You have two options:
 
 Split annotations 
 
-    When you have all stages selected, and you choose wide format, an additional checkbox appears called “Split annotations by stage”. Clicking this option will alter the format of the data output and annotation sessions from different stages will be shown on separate rows.  
+When you have all stages selected, and you choose wide format, an additional checkbox appears called “Split annotations by stage”. Clicking this option will alter the format of the data output and annotation sessions from different stages will be shown on separate rows.  
 
 ### Select optional columns  
 
