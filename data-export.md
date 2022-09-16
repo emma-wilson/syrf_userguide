@@ -16,6 +16,8 @@ SyRF provides project administrators the possibility to export their studies and
 
 This section allows you to export the bibliographic information about the studies in your SyRF project. Bibliographic information refers to the following fields: Unique SyRF StudyId, Title, Authors, Publication Name (Journal title), Alternate Name, Abstract, Url, Author Address, Year,DOI, ReferenceType, Keywords, PDFRelativePath (where the PDF can be found), DateTimeCreated, Systematic Search Id, Systematic Search Name.  
 
+![Bibliographic Info](figs/Fig_ExportDataBibliographic.png)
+
 ### Choose data to export  
 
 In this section, select which studies you want to export. 
@@ -35,6 +37,8 @@ This tick box allows you to control whether columns containing SyRF internal ide
 ## Screening 
 
 This section allows you to export screening data for the studies in your SyRF project. 
+
+![screening Data](figs/Fig_ExportDataScreening.png)
 
 ### Select optional columns  
 
@@ -71,12 +75,16 @@ In this section, select which stage you want to export annotations for.
 
 This dropdown menu allows you to select which stages of your review you would like to download data for. By default, all stages are selected. Click on the dropdown menu to see a list of the stages in your project. You can select/deselect specific stages by ticking/unticking the checkboxes next to each stage.  
 
-![alt text](figs/Fig_ExportDataAnnotation_dropdown.png)
+![Stage Selection](figs/Fig_ExportDataAnnotation_stage_dropdown.png)
 
  
 #### Select a level 
 
-This dropdown menu allows you to select which level of annotations you would like to download data for. Your options are:  
+This dropdown menu allows you to select which level of annotations you would like to download data for. 
+
+![Level Selection](figs/Fig_ExportDataAnnotation_level_dropdown.png)
+
+Your options are:  
 
     Study 
 
@@ -89,6 +97,8 @@ This dropdown menu allows you to select which level of annotations you would lik
     Cohort 
 
     Experiment  
+
+![Annotation Data](figs/Fig_ExportDataAnnotation.png)
 
 ### Choose data format 
 

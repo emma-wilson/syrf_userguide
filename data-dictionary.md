@@ -12,9 +12,9 @@ layout: page
 
 This section allows you to export the bibliographic information about the studies in your SyRF project.
 
-[Bibliographic information example](https://help.syrf.org.uk/spreadsheet_templates/bibliographic_information_example.csv)
+[Bibliographic information example](./spreadsheet_templates/bibliographic_information_example.csv)
 
-[Bibliographic information example - Systematic Search Import Compatibility format](https://help.syrf.org.uk/spreadsheet_templates/bibliographic_information_systematic-search-import-compatibility-format_example.csv)
+[Bibliographic information example - Systematic Search Import Compatibility format](./spreadsheet_templates/bibliographic_information_systematic-search-import-compatibility-format_example.csv)
 
 
 ### Column Headings
@@ -94,9 +94,9 @@ Unique search name.
 
 ## Screening Data
 
-[Long-format example](https://help.syrf.org.uk/spreadsheet_templates/screening_data_unblinded_long-format_example.csv)
+[Long-format example](./spreadsheet_templates/screening_data_unblinded_long-format_example.csv)
 
-[Wide-format example](https://help.syrf.org.uk/spreadsheet_templates/screening_data_unblinded_wide-format_example.csv)
+[Wide-format example](./spreadsheet_templates/screening_data_unblinded_wide-format_example.csv)
 
 ##### Reconciled
 
@@ -127,9 +127,9 @@ Was the study ultimately included or excluded? Two reviewers must agree for a st
 
 The spreadsheets output from the annotation section will contain questions specific to the systematic review being performed, as input by the team conducting the systematic review. 
 
-[Long-format example](https://help.syrf.org.uk/spreadsheet_templates/annotation_data-extraction-stage_study-level_long-format_example.csv)
+[Long-format example](./spreadsheet_templates/annotation_data-extraction-stage_study-level_long-format_example.csv)
 
-[Wide-format example](https://help.syrf.org.uk/spreadsheet_templates/annotation_data-extraction-stage_study-level_wide-format_example.csv)
+[Wide-format example](./spreadsheet_templates/annotation_data-extraction-stage_study-level_wide-format_example.csv)
 
 _These examples contain the same information and are questions from a review conducted by CAMARADES Berlin. The questions in your spreadsheet will depend on the specific questions in your systematic review._
 
