@@ -1,0 +1,4 @@
+StudyId,DateTimeCreated,SystematicSearchId,SystematicSearchName,Reconciled,InvestigatorIds,InvestigatorNames,ScreeningDecisions,ScreeningStatus
+b20d269b-5f87-410b-9e79-68b163cdb65c,02/02/2021 12:28:27,036dfca2-347c-438a-a457-010acc81ec5f,Example Study,False,1b96b68f-9627-4436-b421-db699510f2ae;e599294d-3218-4f40-b4b9-3389481cdde2;a069f7a4-198d-40b2-8f8b-b126818a231a,Mohammed McScreener;Ivan Investigator;Rachel McResearcher,Included;Excluded;Excluded,Excluded
+4a4a4200-6bc5-48cd-855c-0880c87b087e,02/02/2021 12:28:27,036dfca2-347c-438a-a457-010acc81ec5f,Example Study,False,1b96b68f-9627-4436-b421-db699510f2ae;e599294d-3218-4f40-b4b9-3389481cdde2,Mohammed McScreener;Ivan Investigator,Included;Included,Included
+0d11699b-acc7-46ef-9ad2-744580b8b7e4,02/02/2021 12:28:27,036dfca2-347c-438a-a457-010acc81ec5f,Example Study,False,e599294d-3218-4f40-b4b9-3389481cdde2;a069f7a4-198d-40b2-8f8b-b126818a231a,Ivan Investigator;Rachel McResearcher,Excluded;Excluded,Excluded
