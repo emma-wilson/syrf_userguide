@@ -7,4 +7,4 @@ layout: page
 ---
 
 # Studies
-You can see the details of all the studies you have uploaded to SyRF in the studies tab. To learn how to upload studies or systematic searches, please go to [Systematic Search]({{ site.baseurl }}{% link systematic-search.md %}).
+You can see the [bibliographic data](../data-dictionary-bibliographic.html) of all the studies you have uploaded to SyRF in the studies tab. To learn how to upload studies or systematic searches, please go to [Systematic Search]({{ site.baseurl }}{% link systematic-search.md %}).

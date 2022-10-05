@@ -21,5 +21,6 @@ You will automatically be assigned a Project Administrator role in any project t
 
 Currently, you can only have one set of inclusion/exclusion critiera per SyRF project. If you wish to have multiple screening stages in your systematic review, for instance title and abstract screening followed by full-text screening, you can do this by exporting your included studies from SyRF following your first screening stage and uploading them to a new SyRF project to complete your second screening stage.
 
-[Contact us](mailto:syrf.info@ed.ac.uk) for a link to a Shiny App which will allow you to export your data.
+<!--- [Contact us](mailto:syrf.info@ed.ac.uk) for a link to a Shiny App which will allow you to export your data. --->
+
 

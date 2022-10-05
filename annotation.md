@@ -15,7 +15,7 @@ To design annotation questions for a stage of your project, go to 'Question Desi
 ![alttext](figs/Fig_Question_design.png)
 
 ### Question Editing
-At present, questions can only be added or deleted. Individual questions cannot be edited or changed order. This is primarility due to our database structure and questions and an editing feature will be implemented in an upcoming release.
+At present, questions can only be added or deleted. Individual questions cannot be edited or changed order. This is primarility due to our database structure. An editing feature will be implemented in an upcoming release.
 
 ## Question Categories
 Annotation questions are entered into the following categories depending on what information they ask about:

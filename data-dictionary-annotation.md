@@ -42,8 +42,8 @@ The answer to the question as input by the reviewer.
 
 The data type of the answer (string/boolean/integer). 
 
-##### Reconciled
-...
+<!---##### Reconciled
+...--->
 
 ##### IsRootQuestion
 
