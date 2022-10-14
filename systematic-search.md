@@ -5,20 +5,20 @@ nav_order: 7
 layout: page
 ---
 
-# Uploading a Systematic Search
+# Systematic Search Upload Instructions
 
 ## Deduplicating your Systematic Search
 If you have searched for studies using multiple databases there will be duplicate studies in your systematic search. Currently SyRF does not support deduplication of studies, and this must be performed before your studies are uploaded to SyRF. You can deduplicate your studies automatically using the [ASySD deduplication tool](https://camarades.shinyapps.io/RDedup/).
 
 ## Uploading Files	
-A Project Administrator can upload a systematic search to your project by Selecting Systematic Searches from Project Settings and clicking "Upload New Systematic Search".
+A Project Administrator can upload a systematic search to your project by selecting Systematic Searches from Project Settings and clicking "Upload New Systematic Search".
 	
-You can upload your systematic searches as an:
+systematic searches can be uploaded as an:
 
 * EndNote XML file
 * Comma separated value (CSV) file
 
-SyRF currently accepts EndNote Desktop XML files. EndNote Web XML files are not supported.
+SyRF currently accepts EndNote **Desktop** XML files. EndNote Web XML files are not supported.
 
 ![alttext](figs/Fig_Upload_search.png)
 
@@ -32,7 +32,7 @@ SyRF currently accepts EndNote Desktop XML files. EndNote Web XML files are not 
 5. Name and save your XML file, which is now ready to be uploaded to the SyRF screening database
 
 #### Uploading From a Zotero Export
-Please note that you cannot use the  'EndNote XML' export option in Zotero to upload an EndNote file to SyRF. If you are using Zotero to manage your study references, please export as a CSV file and follow the CSV upload instructions.
+Please note that you cannot use the 'EndNote XML' export option in Zotero to upload an EndNote file to SyRF. If you are using Zotero to manage your study references, please export as a CSV file and follow the CSV upload instructions.
 
 **_I am getting an error when uploading an EndNote XML file_**<br/>
 [Check out the FAQ](https://syrf.org.uk/faq)
@@ -56,7 +56,7 @@ Please note that you cannot use the  'EndNote XML' export option in Zotero to up
     * PdfRelativePath
     * CustomId
 
-**You can download a [template with the correct column headings and example data here](https://syrf.org.uk/assets/pdfs/Systematic_search_instructions.html).**
+    **You can download a template with the correct column headings and example data [here](https://syrf.org.uk/assets/pdfs/Systematic_search_instructions.html).**
 
 3. Even if you don't have information for all the columns specified, **they will need to be in your file** to make the upload work. SyRF will accept empty fields for any of these variables.
 4. If you would like to upload **screening decisions** already made outside of SyRF along with list of studies, you should **add separate columns for each user** and SyRF’s wizard will allow you to select which column headers in your file correspond to project members.
