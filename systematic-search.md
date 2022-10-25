@@ -56,7 +56,7 @@ Please note that you cannot use the 'EndNote XML' export option in Zotero to upl
     * PdfRelativePath
     * CustomId
 
-    **You can download a template with the correct column headings and example data [here](https://syrf.org.uk/assets/pdfs/Systematic_search_instructions.html).**
+    **You can download a template with the correct column headings and example data [here](https://syrf.org.uk/assets/pdfs/Example_systematic_search_upload.csv).**
 
 3. Even if you don't have information for all the columns specified, **they will need to be in your file** to make the upload work. SyRF will accept empty fields for any of these variables.
 4. If you would like to upload **screening decisions** already made outside of SyRF along with list of studies, you should **add separate columns for each user** and SyRF’s wizard will allow you to select which column headers in your file correspond to project members.
