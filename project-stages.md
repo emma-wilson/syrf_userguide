@@ -15,7 +15,7 @@ You can add a stage via the left-hand side nagivation bar in your SyRF project o
 
 ![alttext](figs/Fig_Add_stage.png)
 
-Once you have added a stage, you can include it in your project by changing the setting to "Active" in the top right-hand corner of the stage page.
+Once you have added a stage, you can include it in your project by changing the "Enable Stage" setting to active in the top left-hand corner of the stage page.
 
 ## Stage With Screening
 By adding screening to your stage, you can screen the studies you have uploaded to your SyRF project using the inclusion/exclusion criteria you entered when creating your project. Currently, as inclusion/exclusion criteria are defined at the project level, you can only screen according to one set of inclusion/exclusion criteria.

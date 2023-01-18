@@ -7,6 +7,20 @@ layout: page
 
 # Create a New Project
 
+<br/>
+
+<!---Link to youtube help video:--->
+<div class="youtube-wrapper">
+    <iframe src="https://www.youtube.com/embed/m_VuroUdvYw?list=PLT9yacSnQZW85roKzVqoC11OiXm9pob-4" 
+            title="" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            allowfullscreen>
+    </iframe>
+</div>
+
+<br/>
+
 You can create new projects via the Projects tab. Enter your project details in the pop-up form that appears.
 
 As part of project creation, you will be asked to specify the inclusion/exclusion criteria for your project. These should be pre-specified in your protocol.
@@ -21,5 +35,6 @@ You will automatically be assigned a Project Administrator role in any project t
 
 Currently, you can only have one set of inclusion/exclusion critiera per SyRF project. If you wish to have multiple screening stages in your systematic review, for instance title and abstract screening followed by full-text screening, you can do this by exporting your included studies from SyRF following your first screening stage and uploading them to a new SyRF project to complete your second screening stage.
 
-[Contact us](mailto:syrf.info@ed.ac.uk) for a link to a Shiny App which will allow you to export your data.
+<!--- [Contact us](mailto:syrf.info@ed.ac.uk) for a link to a Shiny App which will allow you to export your data. --->
+
 

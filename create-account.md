@@ -7,7 +7,18 @@ layout: page
 
 # Create an Account
 
-You will need to create a [free SyRF account](https://syrf.org.uk) to create or participate in projects. You can also sign in using Google.
+<br/>
+
+<!---Link to youtube help video:--->
+<div class="youtube-wrapper">
+    <iframe src="https://www.youtube.com/embed/d7WYHmK7YwQ?list=PLT9yacSnQZW85roKzVqoC11OiXm9pob-4" 
+            title="Account Creation" frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            allowfullscreen>
+    </iframe>
+</div>
+
+<br/>
 
 Creating an account allows us to keep your data secure and allows the administrator of each project to see who has access to the project data. Read our [Data Management and Sharing Policy here](https://syrf.org.uk/about/privacy).
 

@@ -14,11 +14,11 @@ layout: page
 
 [Wide-format example](./spreadsheet_templates/screening_data_unblinded_wide-format_example.csv)
 
-##### Reconciled
+<!---##### Reconciled
 
-<!---True / False indicating whether discrepancies between reviewers have been reconciled. --->
+True / False indicating whether discrepancies between reviewers have been reconciled. 
 
-...
+...--->
 
 ##### InvestigatorId	
 
