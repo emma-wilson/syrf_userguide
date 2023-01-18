@@ -1,5 +1,5 @@
 ---
-title: How-to videos, 18th Jan* 2023
+title: How-to videos, 18th Jan 2023
 has_children: false
 nav_order: 3
 parent: What's New!
