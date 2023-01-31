@@ -7,6 +7,20 @@ layout: page
 
 # Create a New Project
 
+<br/>
+
+<!---Link to youtube help video:--->
+<div class="youtube-wrapper">
+    <iframe src="https://www.youtube.com/embed/m_VuroUdvYw?list=PLT9yacSnQZW85roKzVqoC11OiXm9pob-4" 
+            title="" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            allowfullscreen>
+    </iframe>
+</div>
+
+<br/>
+
 You can create new projects via the Projects tab. Enter your project details in the pop-up form that appears.
 
 As part of project creation, you will be asked to specify the inclusion/exclusion criteria for your project. These should be pre-specified in your protocol.

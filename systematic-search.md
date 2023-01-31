@@ -7,6 +7,20 @@ layout: page
 
 # Systematic Search Upload Instructions
 
+<br/>
+
+<!---Link to youtube help video:--->
+<div class="youtube-wrapper">
+    <iframe src="https://www.youtube.com/embed/e6blmlaPrNA?list=PLT9yacSnQZW85roKzVqoC11OiXm9pob-4" 
+            title="" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            allowfullscreen>
+    </iframe>
+</div>
+
+<br/>
+
 ## Deduplicating your Systematic Search
 If you have searched for studies using multiple databases there will be duplicate studies in your systematic search. Currently SyRF does not support deduplication of studies, and this must be performed before your studies are uploaded to SyRF. You can deduplicate your studies automatically using the [ASySD deduplication tool](https://camarades.shinyapps.io/RDedup/).
 
@@ -74,7 +88,7 @@ In the systematic search file that you upload (.csv/.tsv spreadsheet or XML from
 
 For more information on relative versus absolute paths in Endnote please visit [Endnote's website here.](https://support.clarivate.com/Endnote/s/article/EndNote-Attaching-PDF-files-in-EndNote-desktop-library?language=en_US)
 
-You will then need to [contact us](syrf.info@ed.ac.uk) with the name of your project, a folder containing your PDFs (sent via Google Drive or similar) and a CSV file containing the file path to each PDF and the title or SyRF study ID of each study, so we can match PDFs with your studies in SyRF. 
+You will then need to [contact us](mailto:syrf.info@ed.ac.uk) with the name of your project, a folder containing your PDFs (sent via Google Drive or similar) and a CSV file containing the file path to each PDF and the title or SyRF study ID of each study, so we can match PDFs with your studies in SyRF. 
 
 We will upload these PDFs to the SyRF database and these can be opened from the screening form.
 
