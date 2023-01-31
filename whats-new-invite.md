@@ -1,10 +1,10 @@
 ---
-title: Member Invitations, 25th Oct* 2022
+title: Member Invitations, 31st Jan 2023
 has_children: false
-nav_order: 3
+nav_order: 4
 parent: What's New!
 layout: page
-permalink: whats-new/25-10-22-member_invitations
+permalink: whats-new/31-01-23-member_invitations
 ---
 
 <h1>Member Invitations</h1>
