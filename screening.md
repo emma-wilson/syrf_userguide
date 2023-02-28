@@ -7,20 +7,6 @@ layout: page
 
 # Screening
 
-<br/>
-
-<!---Link to youtube help video:--->
-<div class="youtube-wrapper">
-    <iframe src="https://www.youtube.com/embed/JkkS82a8Msw?list=PLT9yacSnQZW85roKzVqoC11OiXm9pob-4" 
-            title="" 
-            frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-            allowfullscreen>
-    </iframe>
-</div>
-
-<br/>
-
 ## Screening using SyRF
 You can screen the studies in your SyRF project against the inclusion/exclusion criteria you defined in your systematic review protocol and that you specified when you created your project by creating a screening stage in SyRF.
 
