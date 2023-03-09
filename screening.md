@@ -11,7 +11,7 @@ layout: page
 
 <!---Link to youtube help video:--->
 <div class="youtube-wrapper">
-    <iframe src="https://www.youtube.com/embed/JkkS82a8Msw?list=PLT9yacSnQZW85roKzVqoC11OiXm9pob-4" 
+    <iframe src="https://www.youtube.com/embed/rOjQvPC7yns?list=PLT9yacSnQZW85roKzVqoC11OiXm9pob-4" 
             title="" 
             frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
