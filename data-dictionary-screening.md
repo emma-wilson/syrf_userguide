@@ -27,10 +27,10 @@ A unique 32 digit alphanumeric identifier which SyRF uses to refer to the specif
 ##### InvestigatorName	
 
 The full name of the investigator.
-
+ 
 ##### ScreeningDecision	
 
-Did the investigator include or exclude the study?
+Did the investigator include or exclude the study?   
 
 ##### ScreeningStatus
 
