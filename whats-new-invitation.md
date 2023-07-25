@@ -18,9 +18,9 @@ For public projects, SyRF users can now reuqest to join all projects that requir
 
 Project Administrators now have the ability to: 
 
-* Invite new members to join your SyRF project. [Read more here](../roles.html).
-* Accept or decline requests to join your SyRF project.  [Read more here](../roles.html).
-* Assign members to groups. [Read more here](../roles.html). 
+* Invite new members to join your SyRF project. [Read more here](../members-groups.html).
+* Accept or decline requests to join your SyRF project.  [Read more here](../members-groups.html).
+* Assign members to groups. [Read more here](../members-groups.html). 
 * Configure their projects (visibility, access settings and transfer of ownership).  [Read more here](../nav-project-settings.html).
 
 

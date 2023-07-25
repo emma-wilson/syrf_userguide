@@ -34,7 +34,7 @@ Projects can be deleted from the general settings. Please know that data from de
 ## Memberships
 
 Only Administrators in a project can change a project member’s Project Group.
-Note that in SyRF projects there are two project groups: Reviewers and Administrators. [Click here to read more about User Roles.](../roles.html)
+Note that in SyRF projects there are two project groups: Reviewers and Administrators. [Click here to read more about User Roles.](../members-groups.html)
 
 ## Question Design
 Project Administrators can add and delete annotation questions in their project on this page. These questions can be then assigned to annotation stages. For more information, go to [Annotation]({{ site.baseurl }}{% link annotation.md %}).
