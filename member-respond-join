@@ -6,7 +6,6 @@ nav_order: 3
 layout: page
 ---
 
-
 # Responding to Join Requests
 
 
@@ -15,5 +14,6 @@ layout: page
 To view join requests submitted by users, go to *Project Settings > Membership* and scroll down the Join Requests table. You should click on ‘View Join Request’ to accept or decline the request.
 
 ![alttext](figs/Fig_View_Join.png)
+
 
 
