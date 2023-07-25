@@ -28,19 +28,13 @@ Disabling approval for public projects will allow any user to join your project 
 
 ![alttext](figs/Fig_Project_Access.png)
 
-
 ### Deleting Projects
 Projects can be deleted from the general settings. Please know that data from deleted projects cannot be recovered.
 
-## Members & Groups
+## Memberships
 
 Only Administrators in a project can change a project member’s Project Group.
 Note that in SyRF projects there are two project groups: Reviewers and Administrators. [Click here to read more about User Roles.](../roles.html)
-
-
-
-## Systematic Searches
-Project Administrators can view the systematic searches that have previously been uploaded, or upload new systematic searches on this page. For more information, go to [Systematic Search]({{ site.baseurl }}{% link systematic-search.md %}).
 
 ## Question Design
 Project Administrators can add and delete annotation questions in their project on this page. These questions can be then assigned to annotation stages. For more information, go to [Annotation]({{ site.baseurl }}{% link annotation.md %}).
