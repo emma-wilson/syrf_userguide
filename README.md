@@ -45,3 +45,11 @@ First add your image to the `figs` folder. Next, open the page where you want th
 ![alt text for the image](figs/my_image_file_name.png)
 ```
 Make sure to add alternative text (for screen readers) and the correct name of the file you want to display.
+
+
+
+## Running locally (using docker)
+To serve the user guide locally using docker, run the following command from the root of the repository directory
+```
+docker-compose up
+```

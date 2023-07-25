@@ -14,16 +14,30 @@ In the general project settings, Project Administrators can edit:
 
 * Project name
 * Project description
-* Project visibility
+* Project visibility & access
 * Contact email
 * Protocol Url
 * Keywords
+
+### Visibility & Access
+**Private projects** are joined by invitation only. Whereas **public projects** can be configured to require approval by a project Admin. 
+
+By default projects will require approval from a project admin to join the project. Project access requirements can be changed by going to *Project Settings > General > Visibility & Access* and enabling/disabling ‘Require approval for joining project’. 
+
+Disabling approval for public projects will allow any user to join your project and start reviewing without explicit approval, which is not recommended for sensitive projects.
+
+![alttext](figs/Fig_Project_Access.png)
+
 
 ### Deleting Projects
 Projects can be deleted from the general settings. Please know that data from deleted projects cannot be recovered.
 
 ## Members & Groups
-Project Administrators can change user roles in the members & groups settings page. To make a user a Project Administrator, click the checkbox next to their name. Uncheck the box to make them a Reviewer. Changes are saved automatically.
+
+Only Administrators in a project can change a project member’s Project Group.
+Note that in SyRF projects there are two project groups: Reviewers and Administrators. [Click here to read more about User Roles.](../roles.html)
+
+
 
 ## Systematic Searches
 Project Administrators can view the systematic searches that have previously been uploaded, or upload new systematic searches on this page. For more information, go to [Systematic Search]({{ site.baseurl }}{% link systematic-search.md %}).
@@ -41,3 +55,4 @@ You can decide which elements to add to your stage, e.g. screening, annotation a
 
 ### Annotation Question Selection
 Project Administators can select which questions they have created in the Question Design settings page to add to each stage. Click the 'Edit project questions' button to return to the question design page.
+

@@ -35,6 +35,15 @@ You will automatically be assigned a Project Administrator role in any project t
 
 Currently, you can only have one set of inclusion/exclusion critiera per SyRF project. If you wish to have multiple screening stages in your systematic review, for instance title and abstract screening followed by full-text screening, you can do this by exporting your included studies from SyRF following your first screening stage and uploading them to a new SyRF project to complete your second screening stage.
 
+
+## Public and Private Projects 
+
+When you create a SyRF project you can make it public or private. 
+
+![alttext](figs/Fig_create_project.png)
+
+The names and descriptions of public projects are visible to all other SyRF users. Private projects are hidden from public project listings. Project visibility can be adjusted later in [Project Settings](../nav-project-settings.html) by going to *Project Settings> General> Visibility* and enable or disable ‘Public Project’. 
+
 <!--- [Contact us](mailto:syrf.info@ed.ac.uk) for a link to a Shiny App which will allow you to export your data. --->
 
 
