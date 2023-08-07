@@ -1,13 +1,13 @@
 ---
 title: Data Export, 14th Sept 2022
 has_children: false
-nav_order: 2
+nav_order: 4
 parent: What's New!
 layout: page
 permalink: whats-new/14-09-22-data-export
 ---
 
-<h1>Data Export</h1>
+# Data Export
 
 We have added a [data-export](../data-export.html) feature which allows bibliographic, screening, and annotation data to be downloaded in .csv format. 
 

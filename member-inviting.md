@@ -14,7 +14,7 @@ Administrators can invite new reviewers by going to *Project Settings > Membersh
 
 ![alttext](figs/Fig_Invite_Member.png)
 
-In the form, enter the email address/addresses of those you want to invite to your project, select whether you want these members to be a reviewer or administrator and optionally include a message in the invitation. Once complete, click ’Invite’.
+In the form, enter the email address(es) of those you want to invite to your project, select whether you want these members to be a reviewer or administrator and optionally include a message in the invitation. Once complete, click ’Invite’.
 
 ![alttext](figs/Fig_Invite_Member_Popup.png)
 

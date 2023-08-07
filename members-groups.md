@@ -19,7 +19,7 @@ Reviewers can:
 
 ## Administrators (admin)
 
-In addition to the ability Reviewers have, Administrators can also:
+In addition to the abilities that Reviewers have, Administrators can also:
 * edit project settings
 * approve or reject join requests
 * invite other to become project members
@@ -69,4 +69,4 @@ Select the new owner from the drop down list and click save.
 
 ![alttext](figs/Fig_Owner_Transfer.png)
 
-** Only the owner of the project can transfer ownership to another member.** 
+**Only the owner of the project can transfer ownership to another member.** 

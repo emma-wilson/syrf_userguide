@@ -50,3 +50,9 @@ If you want to carry out screening and annotation at the same time, you will als
 You will then be able to select the questions that you want to be included in this stage by checking the box next to the relevant questions.
 
 
+## Annotation Question Selection
+Project Administators can select which questions they have created in the [Question Design settings](../nav-project-settings.html) and add them to each stage. Click the 'Edit project questions' button to move to the question design page.
+
+If a stage includes annotation then project administrators can select which questions to add to that stage by going to the stage on the left hand side navigation tab then Settings. At the bottom of this stage is Annotation Question Selection where you can select the questions to include in that stage. Read more about adding quesetion to stages [here.](../annotation.html)
+
+

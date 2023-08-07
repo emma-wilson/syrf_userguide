@@ -11,8 +11,14 @@ layout: page
 
 Account details can be edited under account settings. 
 - A profile picture can be added 
-- associated email address can be changed
-- name can be changed
+- Associated email address can be changed
+- Name can be changed
+
+## Associated Emails 
+### I want to add another email to my SyRF account
+
+To add another email address to your SyRF account go to *Account Settings > Associated Emails* and click 'ADD'. You can enter another email address and follow the instructions to verify it. Verification is required to confirm that this email belongs to you.
+
 
 ## Deactivating Your Account
 
