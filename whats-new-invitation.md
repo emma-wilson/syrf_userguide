@@ -1,7 +1,7 @@
 ---
 title: Project Membership & Invitation, 25th July 2023
 has_children: false
-nav_order: 4
+nav_order: 1
 parent: What's New!
 layout: page
 permalink: whats-new/25-07-2023-project-member
@@ -13,7 +13,7 @@ permalink: whats-new/25-07-2023-project-member
 
 We have updated SyRF's project membership administration, invitation, and email notification features. 
 
-For public projects, SyRF users can now reuqest to join all projects that require approval. [Read more here](../nav-project-settings.html). 
+For public projects, SyRF users can now request to join all projects that require approval. [Read more here](../nav-project-settings.html). 
 
 
 Project Administrators now have the ability to: 
