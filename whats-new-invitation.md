@@ -1,15 +1,15 @@
 ---
-title: Project Membership & Invitation, 25th July 2023
+title: Project Membership & Invitation, 7th Aug 2023
 has_children: false
 nav_order: 1
 parent: What's New!
 layout: page
-permalink: whats-new/25-07-2023-project-member
+permalink: whats-new/07-08-2023-project-member
 ---
 
 
 
-<h1>Project Membership, Invitations & Email Notifications</h1>
+# Project Membership, Invitations & Email Notifications
 
 We have updated SyRF's project membership administration, invitation, and email notification features. 
 

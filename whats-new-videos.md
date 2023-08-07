@@ -1,14 +1,14 @@
 ---
 title: How-to videos, 18th Jan 2023
 has_children: false
-nav_order: 3
+nav_order: 2
 parent: What's New!
 layout: page
 permalink: whats-new/18-01-23-how-to_videos
 ---
 <!---Making embedded youtube videos autosize in jekyll: https://www.chunkhang.com/blog/responsive-youtube-video-with-jekyll--->
 
-<h1>How-to videos</h1>
+# How-to videos
 
 <br/>
 
