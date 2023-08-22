@@ -44,6 +44,6 @@ When you create a SyRF project you can make it public or private.
 
 The names and descriptions of public projects are visible to all other SyRF users. Private projects are hidden from public project listings. Project visibility can be adjusted later in [Project Settings](../nav-project-settings.html) by going to *Project Settings> General> Visibility* and enable or disable ‘Public Project’. 
 
-<!--- [Contact us](mailto:syrf.info@ed.ac.uk) for a link to a Shiny App which will allow you to export your data. --->
+<!--- [Contact us](mailto:helpdesk@syrf.org.uk) for a link to a Shiny App which will allow you to export your data. --->
 
 
