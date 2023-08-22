@@ -88,7 +88,7 @@ In the systematic search file that you upload (.csv/.tsv spreadsheet or XML from
 
 For more information on relative versus absolute paths in Endnote please visit [Endnote's website here.](https://support.clarivate.com/Endnote/s/article/EndNote-Attaching-PDF-files-in-EndNote-desktop-library?language=en_US)
 
-You will then need to [contact us](mailto:syrf.info@ed.ac.uk) with the name of your project, a folder containing your PDFs (sent via Google Drive or similar) and a CSV file containing the file path to each PDF and the title or SyRF study ID of each study, so we can match PDFs with your studies in SyRF. 
+You will then need to [contact us](mailto:helpdesk@syrf.org.uk) with the name of your project, a folder containing your PDFs (sent via Google Drive or similar) and a CSV file containing the file path to each PDF and the title or SyRF study ID of each study, so we can match PDFs with your studies in SyRF. 
 
 We will upload these PDFs to the SyRF database and these can be opened from the screening form.
 
