@@ -23,7 +23,7 @@ _This examples contains questions from a review conducted by CAMARADES Berlin. T
 
 #### [Bibliographic Data Columns (click to view)](../bibliographic.html)
 
-If the `Show bibliographic data` option is selected in the SyRF interface then [bibliographic data columns](../bibliographic.html) are included in the export.
+If the `Show bibliographic data` option is selected in the SyRF interface then [Bibliographic Data Columns](../data-dictionary/bibliographic.html) are included in the export.
 
 The `StudyId`, `DateTimeStudyAdded`, `SystematicSearchId` and `SystematicSearchName` columns will always be included regardless.
 
@@ -114,7 +114,7 @@ These column headers also contain
 1. The question text
 2. The question ID (except when the `Single header row simple` option is selected for the [**Choose wide format header type**](../annotation.html#choose-wide-format-header-type-only-available-in-wide-format) property)
 
-**N.b.** The format of the headers for each of these four columns is determined by the options selected for the property [**Choose wide format header type**](../annotation.html#choose-wide-format-header-type-only-available-in-wide-format) in the annotation data export settings (wide format). [Click here for more detail](../annotation.html#choose-wide-format-header-type-only-available-in-wide-format).
+**N.B.:** The format of the headers for each of these four columns is determined by the option selected for the property [**Choose wide format header type**](../annotation.html#choose-wide-format-header-type-only-available-in-wide-format) in the annotation data export settings (wide format). [Click here for more detail](../annotation.html#choose-wide-format-header-type-only-available-in-wide-format).
 
 - ##### **AnnotationId**
 

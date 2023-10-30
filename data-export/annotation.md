@@ -38,7 +38,7 @@ This dropdown menu allows you to select which level of annotations you would lik
 ![Screenshot: Choose data format](figs/choose_data_format-screening.png)
 Select which of the following formats you would like your data in.
 
-1. **Long format** – Mostly useful if you plan to programmatically interact with your data (e.g. using R). In long format, data are presented in a normalised format where each row represents an individual annotation. N.B. If you have many annotation questions in your project, this will result in a large number of rows.
+1. **Long format** – Mostly useful if you plan to programmatically interact with your data (e.g. using R). In long format, data are presented in a normalised format where each row represents an individual annotation. N.B.: If you have many annotation questions in your project, this will result in a large number of rows.
 2. **Wide format** – Mostly useful to gain a visual overview of your data (e.g. in excel). In the wide format, each row contains the data from an individual user’s annotations. Unless the **Split annotations by stage** option is selected.
 
 #### Split annotations by stage (only available in wide format)

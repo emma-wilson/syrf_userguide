@@ -21,9 +21,9 @@ In long format each row corresponds to a single screening decision of a single s
 
 ## Column Headings
 
-#### [Bibliographic Data Columns](../bibliographic.html)
+#### [Bibliographic Data Columns](../data-dictionary/bibliographic.html)
 
-If the `Show bibliographic data` option is selected in the SyRF interface then [bibliographic data columns](../bibliographic.html) are included in the export.
+If the `Show bibliographic data` option is selected in the SyRF interface then [Bibliographic Data Columns](../data-dictionary/bibliographic.html) are included in the export.
 
 The `StudyId`, `DateTimeStudyAdded`, `SystematicSearchId` and `SystematicSearchName` columns will always be included regardless.
 

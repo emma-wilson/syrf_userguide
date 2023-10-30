@@ -11,7 +11,7 @@ layout: page
 
 The spreadsheet output from a quantitative data export will contain the quantitative data for the studies in your SyRF project.
 
-Each row corresponds to a single timepoint and includes it's associated system and selected custom annotations. Other associated IDs and labels for entities including experiment, cohort, diseaseModel, IDs
+Each row corresponds to a single timepoint and includes it's associated system and selected custom annotations. In addition, the associated IDs and labels for experiment, cohort, outcome, treatment, and diseaseModel entities are included.
 
 ## Data Export Example
 
@@ -21,9 +21,9 @@ Each row corresponds to a single timepoint and includes it's associated system a
 
 ## Column Headings
 
-#### [Bibliographic Data Columns](../bibliographic.html)
+#### [Bibliographic Data Columns](../data-dictionary/bibliographic.html)
 
-If the `Show bibliographic data` option is selected in the SyRF interface then [bibliographic data columns](../bibliographic.html) are included in the export.
+If the `Show bibliographic data` option is selected in the SyRF interface then [Bibliographic Data Columns](../data-dictionary/bibliographic.html) are included in the export.
 
 The `StudyId`, `DateTimeStudyAdded`, `SystematicSearchId` and `SystematicSearchName` columns will always be included regardless.
 
