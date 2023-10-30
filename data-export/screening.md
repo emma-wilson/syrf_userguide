@@ -36,7 +36,7 @@ This checkbox allows you to control whether [bibliographic data columns](data-di
 ### Choose level of blinding
 
 ![Screenshot: Choose level of blinding](figs/blinding_level.png)
-On this page, select whether you want to be aware of which reviewer made the screening decision or not.
+In this section, select whether you want to be aware of which reviewer made the screening decision or not.
 
 1. **Show investigator name and unique ID** – displays the full name and unique SyRF ID for each SyRF user that has made a screening decision on each article. This option means you will be not be blinded to screening decision.
 

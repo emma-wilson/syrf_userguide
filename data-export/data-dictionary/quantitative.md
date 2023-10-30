@@ -39,7 +39,7 @@ Investigator information columns will be included depending on which option is s
 
 ### Each selected annotation question
 
-Every annotation question selected for the quantitative data export in the "[**select annotation questions to include in export**](/data-export/quantitative.html#select-annotation-questions-to-include-in-export)" is represented with a single column.
+Each annotation question that is selected for the quantitative data export in the "[**select annotation questions to include in export**](/data-export/quantitative.html#select-annotation-questions-to-include-in-export)" is represented with a single column.
 
 Each question header (below) contains the question text as defined by the project admins.
 

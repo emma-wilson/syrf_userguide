@@ -7,7 +7,7 @@ layout: page
 
 # Quantitative Data
 
-The **Export Quantitative Data** page enables you to download your quantitative data in a format that is suitable for analysis in statistical software such as R or SPSS.
+The **Export Quantitative Data** page enables you to download your quantitative data in a format that is suitable for analysis in statistical software such as R or SAS.
 
 On this page, select the additional information you would like to include with the export of your quantitative (time point) data.
 
@@ -17,7 +17,7 @@ On this page, select the additional information you would like to include with t
 
 ![Select annotation questions to include in export](figs/select_annotation_questions.png)
 
-Allows you to select any combination of corresponding annotations to include with each time point.
+This section allows you to select any combination of corresponding annotations to include with each time point.
 
 ## Select optional columns
 
@@ -27,7 +27,7 @@ This checkbox allows you to control whether [bibliographic data columns](data-di
 ## Choose level of blinding
 
 ![Screenshot: Choose level of blinding](figs/blinding_level.png)
-On this page, select whether you want to be aware of which reviewer made the screening decision or not.
+In this section, select whether you want to be aware of which reviewer made the screening decision or not.
 
 1. **Show investigator name and unique ID** – displays the full name and unique SyRF ID for each SyRF user that has made a screening decision on each article. This option means you will be not be blinded to screening decision.
 

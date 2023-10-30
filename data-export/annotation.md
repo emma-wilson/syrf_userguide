@@ -49,7 +49,7 @@ When in wide format, an additional checkbox appears called “**Split annotation
 #### Choose wide format header type (only available in wide format)
 
 ![Choose wide format header type](figs/choose_wide_format_header_type.png)
-Select the style of headers for the annotation question columns in the data export
+Select the style of headers for the annotation question columns in the data export file.
 
 1. **Two header rows with question** - An extra header row is added to show the question text and ID.
    ![Two header rows with question](figs/header_format-two_header.png)
@@ -66,7 +66,7 @@ This checkbox allows you to control whether [bibliographic data columns](data-di
 ### Choose level of blinding
 
 ![Screenshot: Choose level of blinding](figs/blinding_level.png)
-On this page, select whether you want to be aware of which reviewer made the screening decision or not.
+In this section, select whether you want to be aware of which reviewer made the screening decision or not.
 
 1. **Show investigator name and unique ID** – displays the full name and unique SyRF ID for each SyRF user that has made a screening decision on each article. This option means you will be not be blinded to screening decision.
 2. **Show only investigator unique ID** – ONLY displays the unique SyRF ID for each SyRF user that has made a screening decision on each article. This option means you will be partially blinded to who has made screening decisions for each article. It is possible to find out which unique SyRF ID belongs to which SyRF user at a later date.
