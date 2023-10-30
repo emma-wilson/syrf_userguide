@@ -1,28 +1,12 @@
 ---
-title: Project Stages
+title: Create a Stage
+parent: Stages
 has_children: false
-nav_order: 8
+nav_order: 1
 layout: page
 ---
 
-# Project Stages
-
-<br/>
-
-<!---Link to youtube help video:--->
-<div class="youtube-wrapper">
-    <iframe src="https://www.youtube.com/embed/XKruGNuFXBI?list=PLT9yacSnQZW85roKzVqoC11OiXm9pob-4" 
-            title="" 
-            frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-            allowfullscreen>
-    </iframe>
-</div>
-
-<br/>
-
-## What Are Stages?
-Stages are sections of your SyRF projects that you add to perform tasks such as screening and data annotation. You can have screening and annotation as separate stages and you can also have screening and annotation in the same stage.
+# Create A Stage
 
 ## Add a Stage
 You can add a stage via the left-hand side nagivation bar in your SyRF project or by clicking "add stage" on the project overview page.
@@ -45,7 +29,7 @@ To add questions to your stage of interest go to the ‘Stages’ section of you
 To extract data from graphs in your systematic review studies, you will have to turn on data extraction in addition to annotation within your stage.
 
 ## Screening and Annotating Within the Same Stage
-If you want to carry out screening and annotation at the same time, you will also need to have these functionalities turned on (e.g. even if you have screened at a separate stage, you might want to have the functionality of being able to exclude a study at a later time point when you have read the full-text).
+If you want to carry out screening and annotation at the same time, you will also need to have these functionalities turned on (e.g. even if you have screened at a separate stage, you might want to have the functionality of being able to exclude a study at a later time when you have read the full-text).
 
 You will then be able to select the questions that you want to be included in this stage by checking the box next to the relevant questions.
 
@@ -53,6 +37,6 @@ You will then be able to select the questions that you want to be included in th
 ## Annotation Question Selection
 Project Administators can select which questions they have created in the [Question Design settings](../nav-project-settings.html) and add them to each stage. Click the 'Edit project questions' button to move to the question design page.
 
-If a stage includes annotation then project administrators can select which questions to add to that stage by going to the stage on the left hand side navigation tab then Settings. At the bottom of this stage is Annotation Question Selection where you can select the questions to include in that stage. Read more about adding quesetion to stages [here.](../annotation.html)
+If a stage includes annotation then project administrators can select which questions to add to that stage by going to the stage on the left hand side navigation tab then Settings. At the bottom of this stage is Annotation Question Selection where you can select the questions to include in that stage. Read more about adding questions to stages [here.](../annotation.html)
 
 

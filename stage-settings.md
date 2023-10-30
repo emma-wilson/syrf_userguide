@@ -1,18 +1,18 @@
 ---
-title: Project Stages
-parent: Project
+title: Stage Settings
+parent: Stages
 has_children: false
-nav_order: 4
+nav_order: 2
 layout: page
 ---
 
-# Project Stages
-To find out more about what stages are, [click here.](../project-stages.html)
+# Stage Settings
+To find out more about what stages are, [click here.](../stages\.html)
 
 
 ## Administrators only 
 
-Administrators can Add a Stage. Read more about how to [add a stage here.](../project-stages.html)
+Administrators can Add a Stage. Read more about how to [add a stage here.](../stages.html)
 
 Once a stage is added, administrators can edit the settings of that stage by selecting the *"Stage name" > Settings* from the side navigation pane.
 
@@ -33,7 +33,7 @@ Specifically, the options are:
 - All studies require annotation, but screening is optional 
 - All studies require both screening and annotation
 
-Read more about these options in [Project Stages.](../project-stages.html)
+Read more about these options in [Stages.](../stages\.html)
 
 
 ![Stage Options](/figs/Fig_stage_options.png)

@@ -9,7 +9,7 @@ layout: page
 # Studies
 
 ## All Studies
-Under the 'All Studies' tab, you can see the [bibliographic data](../data-dictionary-bibliographic.html) of all the studies uploaded to a project. 
+Under the 'All Studies' tab, you can see the [bibliographic data](../bibliographic.html) of all the studies uploaded to a project. 
 
 
 ## Administrators only - Systematic Searches

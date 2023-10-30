@@ -1,0 +1,14 @@
+StudyId,DateTimeStudyAdded,SystematicSearchId,SystematicSearchName,InvestigatorId,InvestigatorName,DateTimeOfScreening,ScreeningDecision,ScreeningStatus
+9451eb20-ebe6-4f0e-a7a2-8cb0f71e0bad,2023-08-07 14:40:51,e98127ba-c265-4b5c-8d9d-702ce973b094,upload test,207a08a1-9e0d-4888-9bca-fb1530a0878c,Alexandra Bannach-Brown,2023-08-08 12:20:01,Included,InsufficientlyScreened
+ae65f0aa-b15b-404d-a500-1f65cdf588e0,2023-08-07 14:40:51,e98127ba-c265-4b5c-8d9d-702ce973b094,upload test,207a08a1-9e0d-4888-9bca-fb1530a0878c,Alexandra Bannach-Brown,2023-08-08 12:19:59,Included,InsufficientlyScreened
+c4998032-972c-4dc2-8e77-4629d07eb95e,2023-08-07 14:40:51,e98127ba-c265-4b5c-8d9d-702ce973b094,upload test,dc46ca91-f68a-4a61-b4f4-e26c16a2d1a1,Olena Maksym,2023-10-10 10:59:40,Excluded,InsufficientlyScreened
+bef2f1f0-146c-4b7d-94e1-ce61e5fd25cd,2023-08-07 14:40:51,e98127ba-c265-4b5c-8d9d-702ce973b094,upload test,207a08a1-9e0d-4888-9bca-fb1530a0878c,Alexandra Bannach-Brown,2023-08-08 12:20:02,Excluded,InsufficientlyScreened
+87eebd06-040e-4889-979e-1c89da09c5d0,2023-08-07 14:40:51,e98127ba-c265-4b5c-8d9d-702ce973b094,upload test,207a08a1-9e0d-4888-9bca-fb1530a0878c,Alexandra Bannach-Brown,2023-08-08 12:20:03,Included,InsufficientlyScreened
+13930499-0fce-4f51-bb8c-65d6fe853a15,2023-08-07 14:40:51,e98127ba-c265-4b5c-8d9d-702ce973b094,upload test,207a08a1-9e0d-4888-9bca-fb1530a0878c,Alexandra Bannach-Brown,2023-08-08 12:20:00,Excluded,InsufficientlyScreened
+5af557fe-6008-49d1-b2fe-0ca3e6cb19ca,2023-08-07 14:40:51,e98127ba-c265-4b5c-8d9d-702ce973b094,upload test,207a08a1-9e0d-4888-9bca-fb1530a0878c,Alexandra Bannach-Brown,2023-08-08 12:19:58,Excluded,InsufficientlyScreened
+01c60c67-e119-45aa-bf1a-7faa1c6981fe,2023-08-21 10:50:35,e8336267-2d0e-43e0-94d8-e0f0b513b58e,test2,dc46ca91-f68a-4a61-b4f4-e26c16a2d1a1,Olena Maksym,2023-10-10 10:59:37,Excluded,InsufficientlyScreened
+db41ee7b-ed83-47dd-9fc4-583fffbba7af,2023-08-21 10:50:35,e8336267-2d0e-43e0-94d8-e0f0b513b58e,test2,207a08a1-9e0d-4888-9bca-fb1530a0878c,Alexandra Bannach-Brown,2023-09-22 09:08:08,Included,InsufficientlyScreened
+711a647a-13d7-4263-b6e4-632ec4c33f20,2023-08-21 10:50:35,e8336267-2d0e-43e0-94d8-e0f0b513b58e,test2,207a08a1-9e0d-4888-9bca-fb1530a0878c,Alexandra Bannach-Brown,2023-09-22 09:08:09,Excluded,InsufficientlyScreened
+2ed15727-edaa-4f8d-a440-fda7fb3974f0,2023-08-21 10:50:35,e8336267-2d0e-43e0-94d8-e0f0b513b58e,test2,07af57e6-e399-4c29-b248-7283b0e63f1a,Christopher Sena,2023-09-13 13:26:44,Excluded,Excluded
+2ed15727-edaa-4f8d-a440-fda7fb3974f0,2023-08-21 10:50:35,e8336267-2d0e-43e0-94d8-e0f0b513b58e,test2,c722bf4d-a48d-4af5-afad-c92beb84f91f,Mala Karmakar,2023-09-13 13:23:00,Excluded,Excluded
+1f022654-296a-43ce-b314-95cb1cb74a24,2023-08-21 10:50:35,e8336267-2d0e-43e0-94d8-e0f0b513b58e,test2,dc46ca91-f68a-4a61-b4f4-e26c16a2d1a1,Olena Maksym,2023-10-10 10:59:44,Included,InsufficientlyScreened
