@@ -108,8 +108,8 @@ Investigator information columns will be included depending on which option is s
 
 ### Each annotation question
 
-Each annotation question you have additionally added to the project is represented with the four columns defined below.
-These column headers also contain: 
+Additionally, each [custom user defined annotation question](/annotation.html#creating-annotation-questions) that has been added to the project is represented with the four columns defined below.
+These column headers also contain:
 
 1. The question text
 2. The question ID (except when the `Single header row simple` option is selected for the [**Choose wide format header type**](../annotation.html#choose-wide-format-header-type-only-available-in-wide-format) property)
