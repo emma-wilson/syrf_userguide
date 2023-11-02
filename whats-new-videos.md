@@ -1,7 +1,7 @@
 ---
 title: How-to videos, 18th Jan 2023
 has_children: false
-nav_order: 2
+nav_order: 3
 parent: What's New!
 layout: page
 permalink: whats-new/18-01-23-how-to_videos
