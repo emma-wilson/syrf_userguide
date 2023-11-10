@@ -1,5 +1,5 @@
 ---
-title: Quantitative Data Export Updates, 2nd Nov 2023
+title: "2nd Nov 2023: Quantitative Data Export Updates"
 has_children: false
 nav_order: 1
 parent: What's New!

@@ -1,5 +1,5 @@
 ---
-title: Project Membership & Invitation, 7th Aug 2023
+title: "7th Aug 2023: Project Membership & Invitation"
 has_children: false
 nav_order: 2
 parent: What's New!
