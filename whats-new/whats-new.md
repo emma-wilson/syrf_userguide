@@ -3,6 +3,7 @@ title: What's New!
 has_children: true
 nav_order: 1
 layout: home
+permalink: whats-new
 ---
 
 # What's New?
