@@ -13,7 +13,9 @@ The **Export Screening Data** page allows you to download an export of your proj
 
 For the detailed descriptions of the columns contained in the export (and an example export) refer to the data dictionary below.
 
-[Screening Data Dictionary](data-dictionary/screening.html)
+[Screening (Long Format) Data Dictionary](data-dictionary/screening-long.html)
+
+[Screening (Wide Format) Data Dictionary](data-dictionary/screening-wide.html)
 
 ---
 
