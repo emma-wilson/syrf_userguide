@@ -11,7 +11,7 @@ layout: page
 
 The spreadsheet output from a long format screening data export will contain the screening decisions against the inclusion/exclusion criteria specific to the project, as input by the team conducting the systematic review.
 
-In long format each row corresponds to a single screening decision of a single study by a single reviewer. A complete review of a single study will consist of many screening rows.
+In long format each row corresponds to a single screening decision of a single study by a single reviewer. A complete review of a single study can consist of many screening rows.
 
 ## Data Export Example
 
