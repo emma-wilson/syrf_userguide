@@ -19,14 +19,15 @@ Once a stage is added, administrators can edit the settings of that stage by sel
 Under Settings you can enable the stage by switching the 'Enable Stage' button. 
 Enabling a stage allows members of the project to begin reviewing in that stage. You can temporarily disable whilst you configure the stage, and re-enable when ready.
 
+Note that it is not possible to delete a Stage once it has been added to project. It is only possible to edit the settings of the stage including disabling the stage so that it is not available to Reviewers on the project.
+
 ![Stage Enable](/figs/Fig_stage_enable.png)
 
 ### Review Mode
 
-Under Review Mode you can include Screening, Annotation and Data Extraction in the stage by selecting these modes using the check boxes. You can decide which elements to add to your stage, e.g. screening, annotation and/or data extraction. 
+Under "Review Mode", project administrators can configure various settings for stages with screening and annotation, such as: include and decide which capabilities to add to your stage, e.g. screening, annotation and data extraction, by selecting these modes using the check boxes.  
 
-Screening Settings can be edited by clicking the link ‘Click for editing screening settings’.
-If you choose both screening and annotation, you will be asked to choose how to combine these tasks under Study Selection Settings. 
+Screening Settings can be edited by clicking the link ‘Click for editing screening settings’. If you choose both screening and annotation, you will be asked to choose how to combine these tasks under "Study Selection Settings". 
 
 Specifically, the options are: 
 - All studies require screening, but annotation is optional 
@@ -34,9 +35,35 @@ Specifically, the options are:
 - All studies require both screening and annotation
 
 Read more about these options in [Stages.](../stages\.html)
-
-
 ![Stage Options](/figs/Fig_stage_options.png)
 
 
-Note that it is not possible to delete a Stage once it has been added to project. It is only possible to edit the settings of the stage including disabling the stage so that it is not available to Reviewers on the project.
+If annotation is selected, multiple options are presented. 
+
+__Number of required annotations per study__ - Project administrators can adjust the “number of required annotations per study” as it fits the respective project. This represents the number of independent reviewers who can annotate each study. Adjust the number in the input box by using the arrows or simply type a numbe__r. This input box only accepts whole numbers, or integers. We recommend two independent reviewers to annotate each study in your review as this is typically required from publication in scientific journals and this is the default option. For student-related projects, the option to decrease the number of reviewers is also possible. 
+![Yvonne's fig 2](/figs/Fig_stage_options.png)
+
+
+__Maximum number of incomplete sessions per annotator__ - Project administrators can define how many annotations sessions with the status of “in progress” a reviewer on their project can have. When a reviewer reaches the limit, they will not be able to take new studies for annotation without completing previous incomplete or “saved” studies. Therefore, the lower the number here, the number of studies with the status of “in progress”, the fewer studies a reviewer can have incomplete and saved.  Adjust the number in the input box by using the arrows or simply type a number. This input box only accepts whole numbers, or integers. Currently the default is set to 100 papers, to facilitate reviewers to complete studies in a more timely manner, reduce the number.
+![Yvonne's fig 3](/figs/Fig_stage_options.png)
+
+#### Advanced Settings
+
+By clicking the arrow to reveal the “Advanced Settings”, there are multiple options presented.
+![Yvonne's fig 4](/figs/Fig_stage_options.png)
+
+__Hide excluded studies from reviewers__ - To configure advanced settings for stages with “annotation”, project administrators can choose to show or hide studies that have been sufficiently screened and excluded by reviewers in the project. Hiding studies (ticking the checkbox) will mean that the annotations are not presented to other reviewers, and if a reviewer has this study in the “incomplete studies” section, it will be removed.  
+
+Once certain studies are sufficiently screened, there is an option to hide these excluded studies from the “incomplete studies” panel seen on the screening stage by selecting the “hide excluded studies from reviewers” checkbox. 
+
+![Yvonne's fig 5](/figs/Fig_stage_options.png)
+
+There are 2 options for how the statistics for excluded session are grouped, and each option has further configurable options: 
+1) When "Hide excluded studies form reviewers" is not ticked: 
+* Group excluded session statistic with unexcluded studies 
+* Separate excluded session statistics
+
+
+2) When “Hide excluded studies from reviewers” is ticked: 
+* Separate excluded session statistics
+* Unavailable
