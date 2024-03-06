@@ -7,7 +7,7 @@ layout: page
 ---
 
 # Stage Settings
-To find out more about what stages are, [click here.](../stages\.html)
+To find out more about what stages are, [click here.](../stages.html)
 
 
 ## Administrators only 
@@ -37,7 +37,7 @@ Specifically, the options are:
 - All studies require annotation, but screening is optional 
 - All studies require both screening and annotation
 
-Read more about these options in [Stages.](../stages\.html)
+Read more about these options in [Stages.](../stages.html)
 
 ![Stage Options](/figs/Fig_stage_options.png)
 
@@ -46,7 +46,7 @@ Read more about these options in [Stages.](../stages\.html)
 ### Annotation
 If annotation is selected, multiple options are presented. 
 
-__Number of required annotations per study__ - Project administrators can adjust the “number of required annotations per study” as it fits the respective project. This represents the number of independent reviewers who can annotate each study. Adjust the number in the input box by using the arrows or simply type a numbe__r. This input box only accepts whole numbers, or integers. We recommend two independent reviewers to annotate each study in your review as this is typically required from publication in scientific journals and this is the default option. For student-related projects, the option to decrease the number of reviewers is also possible. 
+__Number of required annotations per study__ - Project administrators can adjust the “number of required annotations per study” as it fits the respective project. This represents the number of independent reviewers who can annotate each study. Adjust the number in the input box by using the arrows or simply type a number. This input box only accepts whole numbers, or integers. We recommend two independent reviewers to annotate each study in your review as this is typically required from publication in scientific journals and this is the default option. For student-related projects, the option to decrease the number of reviewers is also possible. 
 
 ![Advanced Annotation Settings](/figs/Stage-Advanced-settings-annotation-settings.png)
 
