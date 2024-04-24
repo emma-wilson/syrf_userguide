@@ -17,9 +17,9 @@ Administrators can Add a Stage. Read more about how to [add a stage here.](../st
 Once a stage is added, administrators can edit the settings of that stage by selecting the *"Stage name" > Settings* from the side navigation pane.
 
 Under Settings you can enable the stage by switching the 'Enable Stage' button. 
-Enabling a stage allows members of the project to begin reviewing in that stage. You can temporarily disable whilst you configure the stage, and re-enable when ready.
+Enabling a stage allows members of the project to begin reviewing in that stage. You can temporarily disable while you configure the stage, and re-enable when ready.
 
-Note that it is not possible to delete a Stage once it has been added to project. It is only possible to edit the settings of the stage including disabling the stage so that it is not available to Reviewers on the project.
+Note that it is not possible to delete a Stage once it has been added to a project. It is only possible to edit the settings of the stage for example you can disable the stage so that it is not available to Reviewers on the project.
 
 ![Stage Enable](/figs/Stage-Settings-Advanced-settings-enable.png)
 
@@ -27,7 +27,7 @@ Note that it is not possible to delete a Stage once it has been added to project
 
 ## Review Mode
 
-Under "Review Mode", project administrators can configure various settings for stages with screening and annotation, such as: include and decide which capabilities to add to your stage, e.g. screening, annotation and data extraction, by selecting these modes using the check boxes.  
+Under "Review Mode", project administrators can configure various settings for stages with screening and annotation, such as: include and decide which capabilities to add to your stage, e.g. screening, annotation and data extraction, by selecting these modes using the checkboxes.  
 
 ### Screening
 Screening Settings can be edited by clicking the link ‘Click for editing screening settings’. If you choose both screening and annotation, you will be asked to choose how to combine these tasks under "Study Selection Settings". 
@@ -46,12 +46,12 @@ Read more about these options in [Stages.](../stages.html)
 ### Annotation
 If annotation is selected, multiple options are presented. 
 
-__Number of required annotations per study__ - Project administrators can adjust the “number of required annotations per study” as it fits the respective project. This represents the number of independent reviewers who can annotate each study. Adjust the number in the input box by using the arrows or simply type a number. This input box only accepts whole numbers, or integers. We recommend two independent reviewers to annotate each study in your review as this is typically required from publication in scientific journals and this is the default option. For student-related projects, the option to decrease the number of reviewers is also possible. 
+__Number of required annotations per study__ - Project administrators can adjust the “number of required annotations per study” for their project project. This represents the number of independent reviewers who can annotate each study. Adjust the number in the input box by using the arrows or simply type a number. This input box only accepts whole numbers. We recommend two independent reviewers annotate each study in your systematic review, this is typically required for publication in scientific journals, and this is the default option. For student projects or other projects where two independent reviewers are not required to annotate each study, it is an option to decrease the number of reviewers. 
 
 ![Advanced Annotation Settings](/figs/Stage-Advanced-settings-annotation-settings.png)
 
 
-__Maximum number of incomplete sessions per annotator__ - Project administrators can define how many annotations sessions with the status of “in progress” a reviewer on their project can have. When a reviewer reaches the limit, they will not be able to take new studies for annotation without completing previous incomplete or “saved” studies. Therefore, the lower the number here, the number of studies with the status of “in progress”, the fewer studies a reviewer can have incomplete and saved.  Adjust the number in the input box by using the arrows or simply type a number. This input box only accepts whole numbers, or integers. Currently the default is set to 100 papers, to facilitate reviewers to complete studies in a more timely manner, reduce the number.
+__Maximum number of incomplete sessions per annotator__ - Project administrators can define how many annotation sessions with the status “in progress” each reviewer on their project can have. When a reviewer reaches this limit, they will not be able to begin annotation of further studies without completing annotations on these "in progress" or saved studies. Therefore this number is the maximum number of "in progress" or studies with incomplete annotations a reviewer can have saved.  Adjust the number in the input box by using the arrows or simply type a number. This input box only accepts whole numbers. Currently, the default is set to 100 studies. To reduce the number of annotation sessions a reviewer can have in progress at one time, reduce the number.
 
 ![maximum Incomplete sessions](/figs/Stage-Advanced-settings-maximum-incomplete-sessions.png)
 
@@ -67,9 +67,9 @@ Once certain studies are sufficiently screened, there is an option to hide these
 
 ![Hide Excluded Studies](/figs/Stage-Advanced-settings-hide-excluded-studies.png)
 
-There are 2 options for how the statistics for excluded session are grouped, and each option has further configurable options: 
+There are 2 options for how the statistics for excluded studies are grouped, and each option has further configurable options indicating how the statistics for excluded studies are presented in the annotation progress bar: 
 1) When "Hide excluded studies form reviewers" is not ticked: 
-* Group excluded session statistic with unexcluded studies 
+* Group excluded session statistic with unexcluded 
 * Separate excluded session statistics
 
 ![Hide Excluded Studies - grouping 1](/figs/Stage-Advanced-settings-excluded-grouping-1.png)
@@ -79,4 +79,5 @@ There are 2 options for how the statistics for excluded session are grouped, and
 * Separate excluded session statistics
 * Unavailable
 
+Where "Unavailable" means that the excluded studies are categorised as "Unavailable" on the progress bar.
 ![Hide Excluded Studies - grouping 2](/figs/Stage-Advanced-settings-excluded-grouping-2.png)
