@@ -3,7 +3,8 @@ services:
   site:
     environment:
       - JEKYLL_ENV=docker
-    command: jekyll serve --config  _config.yml,_config.docker.yml  -l --livereload-port 4050 --force_polling
+      - BUNDLE_GEMFILE=Gemfile.dev
+    command: jekyll serve --config  _config.dev.yml,_config.docker.yml  -l --livereload-port 4050 --force_polling
     image: jekyll/jekyll
     volumes:
       - .:/srv/jekyll
