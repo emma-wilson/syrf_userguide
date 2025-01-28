@@ -12,7 +12,6 @@ In your systematic review protocol, you will have specified certain information 
 
 To design annotation questions for a stage of your project, go to ‘Question Management’ under ‘Project Settings’ and below ‘Membership’ on the left-hand navigation bar of your project. (OLD IMAGE BELOW - THIS IS JUST A PLACEHOLDER UNTIL FINAL SITE IS UP)
 
-
 ![alttext](figs/Fig_Question_design.png)
 
 ### Question Editing
