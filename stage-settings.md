@@ -19,7 +19,7 @@ Once a stage is added, administrators can edit the settings of that stage by sel
 Under Settings you can enable the stage by switching the 'Enable Stage' button. 
 Enabling a stage allows members of the project to begin reviewing in that stage. You can temporarily disable whilst you configure the stage, and re-enable when ready.
 
-![Stage Enable](/figs/Fig_stage_enable.png)
+![Stage Enable](/figs/Fig_stage_enable_NEW.png)
 
 ### Review Mode
 
