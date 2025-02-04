@@ -103,5 +103,9 @@ For more information on renaming files in Endnote please visit [Endnote's websit
 ## View Project Studies
 You can now view project studies by clicking on the ‘Studies’ then 'All Studies' on the left hand side navigation panel. This will show you all the studies you have uploaded to your project.
 
+## Finding the search ID
+The search ID refers to the identifier of a Systematic Search. You can find this inside your project on SyRF via Studies --> Systematic Searches --> then click on the three dots to the right to view the ID and copy it, as in the image below. Please include the search ID when [uploading full-text PDFs.](https://help.syrf.org.uk/systematic-search.html#uploading-full-text-pdfs) 
+![alttext](figs/Fig_search_ID.png)
+
 ## Deleting Systematic Searches
 If you need to delete your systematic search, you can do so In SyRF. Be aware, however, that if you have used SyRF to screen or annotate these studies, deleting your systematic search will also delete these screening decisions and annotation answers.
