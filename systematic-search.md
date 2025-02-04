@@ -105,6 +105,7 @@ You can now view project studies by clicking on the ‘Studies’ then 'All Stud
 
 ## Finding the search ID
 The search ID refers to the identifier of a Systematic Search. You can find this inside your project on SyRF via Studies --> Systematic Searches --> then click on the three dots to the right to view the ID and copy it, as in the image below. Please include the search ID when [uploading full-text PDFs.](https://help.syrf.org.uk/systematic-search.html#uploading-full-text-pdfs) 
+
 ![alttext](figs/Fig_search_ID.png)
 
 ## Deleting Systematic Searches
