@@ -59,13 +59,13 @@ __Limit number of incomplete sessions per annotator__ - Project administrators c
 #### Advanced Annotation Settings
 
 By clicking the arrow to reveal the “Advanced Settings”, there are multiple options presented.
-![Advanced Settings Arrow Button](/figs/Stage-Settings-Advanced-settings-arrow-button.png)
+![Advanced Settings Arrow Button](/figs/Fig_Stage-Settings-Advanced-settings-arrow-button_NEW.png)
 
 __Hide excluded studies from reviewers__ - To configure advanced settings for stages with “annotation”, project administrators can choose to show or hide studies that have been sufficiently screened and excluded by reviewers in the project. Hiding studies (ticking the checkbox) will mean that the annotations are not presented to other reviewers, and if a reviewer has this study in the “incomplete studies” section, it will be removed.  
 
 Once certain studies are sufficiently screened, there is an option to hide these excluded studies from the “incomplete studies” panel seen on the screening stage by selecting the “hide excluded studies from reviewers” checkbox. 
 
-![Hide Excluded Studies](/figs/Stage-Advanced-settings-hide-excluded-studies.png)
+![Hide Excluded Studies](/figs/Fig_Stage-Advanced-settings-hide-excluded-studies_NEW.png)
 
 There are 2 options for how the statistics for excluded studies are grouped, and each option has further configurable options indicating how the statistics for excluded studies are presented in the annotation progress bar: 
 1) When "Hide excluded studies form reviewers" is not ticked: 
