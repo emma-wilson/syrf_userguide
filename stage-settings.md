@@ -41,7 +41,7 @@ Read more about these options in [Stages.](../stages\.html)
 
 Note that it is not possible to delete a Stage once it has been added to project. It is only possible to edit the settings of the stage including disabling the stage so that it is not available to Reviewers on the project.
 
-![Stage Enable](/figs/Stage-Settings-Advanced-settings-enable_NEW.png)
+![Stage Enable](/figs/Fig_Stage-Advanced-settings-annotation-settings_NEW)
 
 
 
@@ -68,12 +68,12 @@ If annotation is selected, multiple options are presented.
 
 __Number of required annotations per study__ - Project administrators can adjust the “number of required annotations per study” for their project project. This represents the number of independent reviewers who can annotate each study. Adjust the number in the input box by using the arrows or simply type a number. This input box only accepts whole numbers. We recommend two independent reviewers annotate each study in your systematic review, this is typically required for publication in scientific journals, and this is the default option. For student projects or other projects where two independent reviewers are not required to annotate each study, it is an option to decrease the number of reviewers. 
 
-![Advanced Annotation Settings](/figs/Stage-Advanced-settings-annotation-settings_NEW.png)
+![Advanced Annotation Settings](/figs/Fig_Stage-Advanced-settings-annotation-settings_NEW.png)
 
 
 __Limit number of incomplete sessions per annotator__ - Project administrators can now limit how many annotation sessions with the status “in progress” each reviewer on their project can have. When a reviewer reaches this limit, they will not be able to begin annotation of further studies without completing annotations on these "in progress" or saved studies. Therefore this number is the maximum number of "in progress" or studies with incomplete annotations a reviewer can have saved.  Adjust the number in the input box by using the arrows or simply type a number. This input box only accepts whole numbers. Currently, by default, this option is ticked and the limit is set to 100 studies. To reduce the number of annotation sessions a reviewer can have in progress at one time, reduce the number.
 
-![maximum Incomplete sessions](/figs/Stage-Advanced-settings-maximum-incomplete-sessions_NEW.png)
+![maximum Incomplete sessions](/figs/Fig_Stage-Advanced-settings-maximum-incomplete-sessions_NEW)
 
 
 #### Advanced Annotation Settings
