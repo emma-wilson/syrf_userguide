@@ -82,6 +82,7 @@ There are 2 options for how the statistics for excluded studies are grouped, and
 Where "Unavailable" means that the excluded studies are categorised as "Unavailable" on the progress bar.
 ![Hide Excluded Studies - grouping 2](/figs/Stage-Advanced-settings-excluded-grouping-2.png)
 
+
 __Team-excluded studies__ - Studies that are team-excluded before a reviewer starts annotation will never be randomly presented to that reviewer. However, they remain accessible via direct links.
 
 
