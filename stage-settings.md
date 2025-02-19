@@ -97,5 +97,5 @@ There are 2 options for how the statistics for excluded studies are grouped, and
 Where "Unavailable" means that the excluded studies are categorised as "Unavailable" on the progress bar.
 
 
-![Hide Excluded Studies - grouping 2](/figs/Stage-Advanced-settings-excluded-grouping-2.png)
+![Hide Excluded Studies - grouping 2](/figs/Fig_Stage-Advanced-settings-excluded-grouping-2_NEW.png)
 
