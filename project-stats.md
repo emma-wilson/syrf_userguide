@@ -14,7 +14,7 @@ You can monitor the progress of the project, including the level of completion o
 ### Dual screening 
 
 
-![alttext](figs/Fig_Project_Access.png) ![alttext](figs/Fig_Project_Access.png)
+![alttext](figs/Fig_Project-Stats_Screening_CSI.png) ![alttext](figs/Fig_Project-Stats_Screening2_CSI.png)
 
 
 Two versions of the chart detailing the dual screening progress are available to view: 
@@ -88,7 +88,8 @@ The corresponding categories of the two charts are summarised below:
   </tr>
 </table>
 
-
+Or
+![alttext](figs/Fig_table1_stats-userguide_CSI.png)
 
 # Annotation stage 
 
@@ -104,7 +105,20 @@ When “Show all” is turned on, the more comprehensive version of the chart di
 
 Studies are considered to have no completed reviews if they have 0 complete sessions or up to 2 incomplete sessions. Studies are considered to have 1 completed review if they have 1 complete session ± 1 incomplete session. Studies are considered to have 2 completed reviews if they have 2 complete sessions. Finally, studies are considered overannotated if they have ≥ 3 complete/incomplete sessions. This is summarised in the table below:  
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| “Show all” off         | “Show all” on                                      |
+|------------------------|---------------------------------------------------|
+| No completed review   | No complete or incomplete session                 |
+|                        | 1 incomplete and 0 complete sessions              |
+|                        | 2 incomplete and 0 complete sessions              |
+| 1 completed review    | 1 complete and 0 incomplete sessions              |
+|                        | 1 complete and 1 incomplete sessions              |
+| 2 completed reviews   | 2 complete and 0 incomplete sessions              |
+| Over annotated        | ≥ 3 complete and 0 incomplete sessions            |
+|                        | ≥ 2 complete and ≥ 1 incomplete sessions          |
+|                        | ≥ 1 complete and ≥ 2 incomplete sessions          |
+|                        | ≥ 3 incomplete and 0 complete sessions            |
+
+
+OR
+
+![alt text](Fig_table2_stats-userguide_CSI.png)
