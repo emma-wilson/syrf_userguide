@@ -16,7 +16,7 @@ You can monitor the progress of the project, including the level of completion o
 
 Two versions of the chart detailing the dual screening progress are available to view: 
 
-- When “Show screening decisions” is turned off, the chart displays the proportion of studies not screened, screened by 1 reviewer, screened by 2 reviewers who agreed, screened by 2 reviewers who disagreed (requiring reconciliation), screened by 3 reviewers (reconciled), and overscreened studies (screened by more than three users).  
+- When “Show screening decisions” is turned off, the chart displays the proportion of studies not screened, screened by 1 reviewer, screened by 2 reviewers who agreed, screened by 2 reviewers who disagreed (requiring reconciliation), screened by 3 reviewers (reconciled), and overscreened studies (screened by more than 3 reviewers).  
 
 
 
@@ -81,11 +81,11 @@ You can hover over each pie chart slice in both views to get more detailed infor
 
 
 
-![alttext](figs/Fig_Project-Stats_Annotation3_CSI.png)    ![alttext](figs/Fig_Project-Stats_Annotation4_CSI.png)
+![alttext](figs/Fig_Project-Stats_Annotation3_CSI.png)     ![alttext](figs/Fig_Project-Stats_Annotation4_CSI.png)
 
 
 
-Further down below, you can also see the "Annotation Leaderboard" table, which provides more detailed information on each user's annotation activity, in the same way as in the Screening section above.
+Further down below, you can also see the "Annotation Leaderboard" table, which provides more detailed information on each user's annotation activity.
 
 
 
@@ -111,4 +111,4 @@ Studies are considered to have no completed reviews if they have 0 complete sess
 
 
 
-This feature is optimised for stages where [the setting](../bibliographic.html) "Required Annotators per Study" is set to 2 (i.e., studies with 3 or more annotators count as overannotated)
+This feature is optimised for stages where [the setting](../stage-settings.html) "Required Annotators per Study" is set to 2 (i.e., studies with 3 or more annotators count as overannotated).
