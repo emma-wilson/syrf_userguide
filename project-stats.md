@@ -5,7 +5,6 @@ nav_order: 3
 layout: page
 ---
 
-
 # Project overview 
 
 You can monitor the progress of the project, including the level of completion of the screening and annotation stages, in the Overview tab, which is found under the tab for each stage in the left-side menu.  
